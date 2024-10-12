@@ -81,7 +81,7 @@ Mattermost, Inc. implements a number of controls and processes to comply with U.
 
 1. **IP blocking:** We use IP blocking to deny access from certain countries to our commercial systems, such as signing up for our commercial and proprietary offerings. 
 
-2. **Automated compliance scanning:** We use an automated export compliance tool called Descartes. In Salesforce account records there is a prominent **Descartes** box in the top right indicating safety levels. Accounts that are flagged need to be released wtihin the Descartes System by Legal or their designate.
+2. **Automated compliance scanning:** We use an automated export compliance tool called Descartes. In Salesforce account records there is a prominent **Descartes** box in the top right indicating safety levels. Accounts that are flagged need to be released within the Descartes System by Legal or their designate.
 
 3. **Manual compliance review:** At times announcements about changes to sanctions regulations happen faster than our export compliance tool can adapt. In the cases where sanctions have been announced, we can proactively review our business and make changes to enforce sanctions ahead of the automated solution being updated.
 
